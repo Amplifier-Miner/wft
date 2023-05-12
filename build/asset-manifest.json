@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fdd3d94b.chunk.css",
+    "main.js": "./static/js/main.73ef8b90.chunk.js",
+    "main.js.map": "./static/js/main.73ef8b90.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.76e66fce.js",
+    "runtime-main.js.map": "./static/js/runtime-main.76e66fce.js.map",
+    "static/js/2.79c3c78e.chunk.js": "./static/js/2.79c3c78e.chunk.js",
+    "static/js/2.79c3c78e.chunk.js.map": "./static/js/2.79c3c78e.chunk.js.map",
+    "static/js/3.2fba15c1.chunk.js": "./static/js/3.2fba15c1.chunk.js",
+    "static/js/3.2fba15c1.chunk.js.map": "./static/js/3.2fba15c1.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.fdd3d94b.chunk.css.map": "./static/css/main.fdd3d94b.chunk.css.map",
+    "static/js/2.79c3c78e.chunk.js.LICENSE.txt": "./static/js/2.79c3c78e.chunk.js.LICENSE.txt",
+    "static/media/AMPL5.7650eabd.png": "./static/media/AMPL5.7650eabd.png",
+    "static/media/PulseScan.eb93d3bf.png": "./static/media/PulseScan.eb93d3bf.png",
+    "static/media/logo.258604ea.gif": "./static/media/logo.258604ea.gif",
+    "static/media/logo.d6ce0271.png": "./static/media/logo.d6ce0271.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e66fce.js",
+    "static/js/2.79c3c78e.chunk.js",
+    "static/css/main.fdd3d94b.chunk.css",
+    "static/js/main.73ef8b90.chunk.js"
+  ]
+}
